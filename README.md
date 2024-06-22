@@ -1,6 +1,6 @@
-# Transcription and Analysis Scripts
+# Life Stories Organizer
 
-This repository contains scripts to transcribe audio files, extract key information, organize the data chronologically, and create a narrative storyline. The scripts are modularized for better maintainability and can handle different types of audio files.
+This repository contains scripts to organize the stories of your life by transcribing audio files, extracting key information, organizing the data chronologically, and creating a narrative storyline.
 
 ## Table of Contents
 
