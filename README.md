@@ -142,3 +142,6 @@ def convert_audio_to_wav(input_file, output_file):
             print(f"Error converting {input_file} to {output_file}: {e}")
     else:
         print(f"{output_file} already exists. Skipping conversion.")
+
+Organize your working directory as follows:
+
